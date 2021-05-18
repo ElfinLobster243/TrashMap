@@ -1,0 +1,10 @@
+com/example/trashmap/BuildConfig.java
+ com.example.trashmap.BuildConfig
+com/example/trashmap/WebViewClientImpl.java
+ com.example.trashmap.WebViewClientImpl
+com/example/trashmap/MainActivity.java
+ com.example.trashmap.MainActivity
+com/example/trashmap/GenericFileProvider.java
+ com.example.trashmap.GenericFileProvider
+com/example/trashmap/MainActivity2.java
+ com.example.trashmap.MainActivity2

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrashMap</string>
+    <string name="Sobre">Este app é uma versão beta. Não contém nenhum banco de dados, os valores são simulados ou inexistentes. Clique no botão abaixo para continuar.</string>
+    <string name="botao">Continuar</string>
+    <string name="t">Atenção!</string>
+</resources>
